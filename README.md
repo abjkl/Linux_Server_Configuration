@@ -10,7 +10,7 @@ The server is hosted on the ip ```13.229.26.176```
 ## NTP port （123）
 
 # 2.URL for my web application
-```agoodthing.cn```
+```http://www.agoodthing.cn```
 
 # 3. Installed Software
 1.python3
