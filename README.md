@@ -1,6 +1,6 @@
 # Linux_Server_Configuration
 
-# 1. IP & SSH port )
+# 1. IP & SSH port 
 ## IP （13.229.26.176）
 The server is hosted on the ip ```13.229.26.176```
 ## SSH port (22OO)
